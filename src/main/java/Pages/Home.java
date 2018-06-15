@@ -21,5 +21,10 @@ public class Home extends BaseClass
 	{
 		
 	}
+	
+	public void currenturl()
+	{
+		
+	}
 
 }
